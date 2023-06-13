@@ -146,3 +146,48 @@ C/ Yönetici Ofis Yapısı
          C/ Mali belgeleri başkanla birlikte imzalayın
          D/ Derneğe fon getirmek için başka kaynaklar arayın
          E/ Dernek fonlarıyla şeffaf bir şekilde işlem yapmak
+         4/ Kültür ve medya sekreterinin görev ve sorumlulukları
+         A/ Kültürel programlar düzenlemek ve yetenekleri keşfetmek
+         B/ Dernek çıktılarının ve toplantılarının medya platformlarına yüklenmesi
+         C/ İletişim sitelerinde platformların oluşturulması ve denetlenmesi
+         Derneğin tüm programlarını denetlemekle
+
+     5/Spor Sekreterinin görev ve sorumlulukları
+         A / tüm spor aktivitelerini denetlemek
+         B/ Sudanlı öğrenci takımının Bilecik'te kurulması ve dernek adına şehir içi ve şehir dışı müsabaka ve liglere katılması
+
+1/ Derneğin kaynakları şunlardır:
+    A/ Dernek üyeleri için periyodik abonelikler
+    B/ Yönetim Ofisinin kabul etmeyi kabul ettiği bağış ve yardımlar
+    C/ Dernek tarafından tanıtılan reklamlardan elde edilen gelirler
+    Derneğin amaçları ile çelişmeyen diğer kaynaklarla birlikte.
+    B/ mali prosedürler
+
+2/ derneğin
+     A/ fonlar mali sekretere yatırılır
+     B/ Harcama, Yönetim Ofisi tarafından onaylanan mali düzenlemelere göre Dernek fonlarından yapılır.
+     C/ Derneğin hesap, belge ve mali kayıtlarının muhasebe ilke ve standartlarına göre tutulması zorunludur.
+     D/Derneğin parasından siyasi, partizan, bölgesel veya şahsi hiçbir faaliyette bulunmak, bunlarla bahis ve mali spekülasyon yapmak caiz değildir.
+     C/Derneğin parası derneğin malı sayılır ve üyelerin üzerinde hiçbir hakkı olmadığı gibi, üyeliğini kaybeden ayrılan üyenin bu paralar üzerinde veya dernekte kaldığı süre boyunca ödediğini talep etme hakkı yoktur.
+
+Anayasa ve Seçim Komisyonu
+     A/ Seçim Kurulu, aday gösterme ve seçim sürecini denetlemek kaydıyla, Genel Kurulun yetkin ve güven duyduğu kişilerden her oturum için beşten fazla ve üçten az olmamak üzere üyelerle oluşturulur.
+     B/ Seçim ve aday gösterme süreci akademik yıla göre yıllık olarak yapılır ve eski icra dairesinden göreve başlaması ile yeni icra dairesinin görev süresi başlar.
+     C/ Herhangi bir pozisyon için aday listeleri en az bir aday ve en fazla üç aday içermelidir.
+     D/ Yönetim Kurulu üyeleri doğrudan, serbest seçimle seçilir.
+     Y/ Seçim kurulu, genel kurul başkanı ve üyeleri tarafından temsil edilen Keş üyeler arasından seçilir.
+
+Tüm adayların aşağıdaki gibi pozisyonlara aday olma koşullarını sağlaması gerekir:
+   - Aday 18 yaşını doldurmuş ve Bilecik Üniversitesi transkriptlerine kayıtlı Sudanlı öğrenci olmalı ve eğitimine devam etmelidir.
+   - Tüm pozisyonlar için tüm adaylarda yetkinlik aranmaktadır.
+   - Başkan adayının daha önce yöneticilik görevinde bulunmuş olması şartı aranır.
+   - Seçim sonuçları 1+%50 ve üzeri katılım ile onaylanır ve Seçim Kurulu tarafından belirlenen tarihte seçim süreci başlar.
+   - Bir adayın kalması ve diğer adayların çekilmesi durumunda bu Türk aday kazanır.
+   - Adayların oylarının eşit olması halinde yeniden oy kullanma hakkı, yine eşitlik halinde ise Seçim Kurulu, Dernekteki çalışma sicillerini ve çeşitli etkinliklere katılımlarını ve en çok oylarını inceler. aktif üzerinde test edilecektir.
+   - Adaylık veya seçim sürecine herhangi bir itiraz veya itiraz olması halinde, bu itiraz Seçim Kuruluna yapılır. Yazılı olarak, Seçim Kurulu en geç üç gün içinde yazılı olarak cevap verir.
+   - Oylama sonuçları Seçim Kurulu tarafından tasnif edilerek yeni ofise duyurulduktan sonra eski ofis görevlerini yeni ofise devreder. Eğitim ve devir teslim sürecinin ardından yeni ofis faaliyetlerine hemen başlayacak.
+
+Anayasa
+     A/ Bu Tüzük, Genel Kurul üyelerinin üçte ikisinin onayı olmaksızın değiştirilemez.
+     b/ Bu tüzük Genel Kurul tarafından onaylandıktan sonra yürürlüğe girer.
+     C/ Bu anayasaya göre, yürütmenin ve başkanın birden fazla aday gösterme hakkı vardır.
