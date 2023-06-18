@@ -19,3 +19,6 @@ A : Yes it could be some conturdections and it's up to reader prespective and th
 Q : can any one change the constitution ?
 
 A : if you are part of the Association you can submitt an application to change to [CONTACT](https://t.me/SDbilecik) NOTE that your applaction my be reject . 
+
+
+Q : can we make new projects?
