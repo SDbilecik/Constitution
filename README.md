@@ -22,3 +22,6 @@ A : if you are part of the Association you can submitt an application to change 
 
 
 Q : can we make new projects?
+A : it's depend on the project taype .
+
+
